@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1029" height="372" viewBox="0 0 1029 372"
+     preserveAspectRatio="xMidYMid meet"
+     role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">aaoo — Felt keys</title>
+  <desc id="logo-description">A rounded lowercase aaoo wordmark with subtle piano-key details in both o forms. Four closed compound paths, a transparent background, and no font dependencies.</desc>
+  <!-- Geometry: 200-unit letter height; 34-unit stroke and key width;
+       19-unit interletter gaps; 86-unit clear space on every side. -->
+  <g fill="#24241f" fill-rule="evenodd" transform="translate(86 86)">
+    <path id="a-first" d="M 200 100 V 197 Q 200 200 197 200 H 169 Q 166 200 166 197 V 175.126559884 A 100 100 0 1 1 200 100 Z M 166 100 A 66 66 0 1 0 34 100 A 66 66 0 1 0 166 100 Z"/>
+    <path id="a-second" d="M 419 100 V 197 Q 419 200 416 200 H 388 Q 385 200 385 197 V 175.126559884 A 100 100 0 1 1 419 100 Z M 385 100 A 66 66 0 1 0 253 100 A 66 66 0 1 0 385 100 Z"/>
+    <path id="o-first" d="M 638 100 A 100 100 0 1 0 438 100 A 100 100 0 1 0 638 100 Z M 521 36.226964946 A 66 66 0 1 0 555 36.226964946 V 81 Q 555 85 551 85 H 525 Q 521 85 521 81 Z"/>
+    <path id="o-second" d="M 857 100 A 100 100 0 1 0 657 100 A 100 100 0 1 0 857 100 Z M 740 36.226964946 A 66 66 0 1 0 774 36.226964946 V 81 Q 774 85 770 85 H 744 Q 740 85 740 81 Z"/>
+  </g>
+</svg>
